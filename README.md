@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Veresek
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Dc: Veresek
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
