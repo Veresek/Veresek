@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Veresek
-- 👀 I’m interested in WebDev
+- 👀 I’m interested in Front-End Dev
 - 🌱 I’m currently learning JS
 - 📫 How to reach me Dc: Veresek
