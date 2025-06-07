@@ -17,7 +17,7 @@
 ### 🔨 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind,bootstrap,git,github,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,mysql" />
   </a>
 </p>
 <br/>
