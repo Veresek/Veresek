@@ -25,6 +25,6 @@
 ## 📈 GitHub Stats 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=veresek" style="width: 49%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veresek&layout=compact" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=veresek&show_icons=true&theme=dark" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veresek&layout=compact&langs_count=6&theme=dark" style="width: 48%;" />
 </div>
