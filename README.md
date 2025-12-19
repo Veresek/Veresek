@@ -8,9 +8,6 @@
 
 ### 🧐 About Me:
 - 💻 I'm a young year old **front-end developer** from Poland 🇵🇱.
-- 🔭 I'm currently working on **Formul.ai and todo-app**.
-- 🌱 I'm currently learning **React.js, docker and vim**.
-- ⌚ In my free time, I like to **read books📕, listen to music🎶 and lift weights🏋️‍♂️**.
 - 🗨️ Always open for *collaboration* or discussions on **web development**.
 - 📩 Reach me on Discord: `veresek`.
 
