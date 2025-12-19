@@ -10,6 +10,8 @@
 - 💻 I'm a young year old **front-end developer** from Poland 🇵🇱.
 - 🗨️ Always open for *collaboration* or discussions on **web development**.
 - 📩 Reach me on Discord: `veresek`.
+  
+<br/><br/><br/>
 
 ## 📈 GitHub Stats 
 
