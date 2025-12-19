@@ -1,4 +1,4 @@
-# Hi there I'm [Kacper](https://filipowski.ovh) 👋
+# Hi there I'm [Kacper](https://filipowski.xyz) 👋
 
 <img align="right" alt="img" src="src/Programming-bro.svg" width="380px"/>
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 ### 🧐 About Me:
-- 💻 I'm a 15 year old **front-end developer** from Poland 🇵🇱.
+- 💻 I'm a young year old **front-end developer** from Poland 🇵🇱.
 - 🔭 I'm currently working on **Formul.ai and todo-app**.
 - 🌱 I'm currently learning **React.js, docker and vim**.
 - ⌚ In my free time, I like to **read books📕, listen to music🎶 and lift weights🏋️‍♂️**.
