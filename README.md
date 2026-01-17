@@ -7,15 +7,7 @@
 </p>
 
 ### 🧐 About Me:
-- 💻 I'm a young year old **front-end developer** from Poland 🇵🇱.
-- 🗨️ Always open for *collaboration* or discussions on **web development**.
+- 💻 I'm a young 16 year old **web developer** from Poland 🇵🇱.
+- 🗨️ Always open for *collaboration* or discussions on **web development or ai**.
 - 📩 Reach me on Discord: `veresek`.
-  
-<br/><br/><br/>
 
-## 📈 GitHub Stats 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=veresek&show_icons=true&theme=dark" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veresek&layout=compact&langs_count=6&theme=dark" style="width: 48%;" />
-</div>
